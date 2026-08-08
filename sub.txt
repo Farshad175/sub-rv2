@@ -1,9 +1,1 @@
-wireguard://UEvn3Mdr%2FVY6SGFXcC2Dwf2a7o4pkDQb4Huw0Ejrxks%3D@145.239.252.205:25018?publickey=6g4c4GzMulIPJjkX8iYgf%2FETE9VCXCUSeEIa9wer2x0%3D&address=10.104.2.19%2F32&mtu=1280#WireGuard%20Peer%201
-wireguard://eLbAuIMFFBVGGV%2Bj6l%2B%2BpMMGrqczb9nrV7VM4AjloVs%3D@145.239.255.68:25018?publickey=TMGRzMA3dim95ClL5uVDkkrhNtxLrSPXbLf%2BT%2BDc2DA%3D&address=10.104.2.50%2F32&mtu=1280#WireGuard%20Peer%201
-wireguard://aML1CykZxUjxcrNhCE%2BvmnKM9efFThPDJLvySCGqVUU%3D@51.75.145.20:25018?publickey=Fwt2sU9t7zRQye4BP%2F5IsO3dZjvRVR5hO5JD%2B6JFAEs%3D&address=10.104.8.27%2F32&mtu=1280#WireGuard%20Peer%201
-wireguard://UEkWq8Gw1fZvFOk9X9MvJVByG%2BMHLaSUfRMGSU39HW8%3D@51.75.145.220:25018?publickey=fiaaxr%2Br00sgq9RByIekr7HrNh4UJbH1JU7Q1vc6gkc%3D&address=10.104.0.184%2F32&mtu=1280#WireGuard%20Peer%201
-wireguard://cCRrOdes59Zdqcc7eZ4mMRC7h5O8PpP5HuaR%2FAMNVnQ%3D@5.196.64.231:25018?publickey=26kgTMAJsQmfCVu%2F2m6T%2BX1CCjl07EeBUHzBwulFPHo%3D&address=10.104.3.12%2F32&mtu=1280#WireGuard%20Peer%201
-wireguard://4P7srf2N%2BxBLp%2B%2BDjzqVhN67khPhuDF15Prl8zhq33w%3D@147.135.15.16:25018?publickey=YLaLJahXZ6NuASXQLPl0eUPVAypirpaLuuO7tZa2bmo%3D&address=10.104.6.158%2F32&mtu=1280#WireGuard%20Peer%201
-wireguard://cDxA9kEXlLoKvSG8VTUEo1AjhWysh8S%2BzW2mEhydSl0%3D@142.4.216.196:25018?publickey=Mop45Icu1QOf7eq2x0xc2hzyO0cDEq7LGL35nYt7d2Q%3D&address=10.104.1.45%2F32&mtu=1280#WireGuard%20Peer%201
-wireguard://0OYqfAktRb%2BcUZrRdTXGBC6Jsla47HSSxsVmgwNvwEg%3D@147.135.37.178:25018?publickey=Rn6w1t6actF9XC0bMIXxO25rf31uFqm2%2Fn5sYyK1UzQ%3D&address=10.104.3.38%2F32&mtu=1280#WireGuard%20Peer%201
-wireguard://UNK4%2BfWzO9lhbaq%2FDKMllIpmR0NZ75l5Q5G5f6MSdV4%3D@144.217.253.149:25018?publickey=Iq0kTIp79YgI45%2BvVMOTfYZSbydVUoLnNe0mt88CViI%3D&address=10.104.0.155%2F32&mtu=1280#WireGuard%20Peer%201
+123
